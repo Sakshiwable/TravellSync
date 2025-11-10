@@ -29,7 +29,6 @@ export default function FriendsPage() {
 
   return (
     <div className="min-h-screen w-screen flex flex-col bg-gradient-to-br from-blue-50 via-blue-100 to-blue-200">
-      <Navbar />
 
       <main className="flex-1 px-6 py-16 flex flex-col items-center text-center">
         <h1 className="text-3xl font-bold text-blue-800 mb-6">👥 Your Friends</h1>

@@ -181,7 +181,7 @@ export default function LiveMap() {
 
   return (
     <div className="w-screen h-screen relative bg-gradient-to-br from-[#0f172a] via-[#1e293b] to-[#0f172a] text-gray-100 overflow-hidden">
-      <Navbar />
+  
 
       {/* 🧭 Sidebar */}
       <aside
