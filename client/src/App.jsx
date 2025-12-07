@@ -1,6 +1,5 @@
 // src/App.jsx
 import { Routes, Route, Navigate } from "react-router-dom";
-import Auth from "./pages/Auth.jsx";
 import Dashboard from "./pages/Dashboard.jsx";
 import GroupsPage from "./pages/GroupsPage.jsx";
 import InvitesPage from "./pages/InvitesPage.jsx";
